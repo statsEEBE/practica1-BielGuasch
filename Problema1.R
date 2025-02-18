@@ -7,7 +7,7 @@ names(mis_dades)
 # 1
 mis_dades$qsec #data.values$variable per extreure les dades especifiques de la variable
 x <- mis_dades$qsec
-
+#potser falta el resultat final... casi segur
 #2
 sum(x) #sumatori de valors de variable x
 sum(x)/length(x) #/numero de valors de variable x
